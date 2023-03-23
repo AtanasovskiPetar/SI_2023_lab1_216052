@@ -1,0 +1,36 @@
+commit ec9e7f709f83999be85be9032e5449a8acafb635 (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: AtanasovskiPetar <patanasovski25@gmail.com>
+Date:   Thu Mar 23 11:42:10 2023 +0100
+
+    Fix method sumEvenNumbers
+
+commit 08118be2f804ca1ed9a2ea4a95ab695f482cbcd8
+Merge: 1aced81 112fcd3
+Author: AtanasovskiPetar <patanasovski25@gmail.com>
+Date:   Thu Mar 23 12:02:58 2023 +0100
+
+    Merging bug2
+
+commit 112fcd3788f53ab2036b7e04dd27e06c60c73a74 (origin/bug2, bug2)
+Author: AtanasovskiPetar <patanasovski25@gmail.com>
+Date:   Thu Mar 23 11:38:59 2023 +0100
+
+    Fix wrong condition in filterOddNumbers
+
+commit 1aced815aa22cf59972a4c4c961bb0030c374b0d (origin/bug1, bug1)
+Author: AtanasovskiPetar <patanasovski25@gmail.com>
+Date:   Thu Mar 23 11:24:08 2023 +0100
+
+     Fix wrong loop for reading
+
+commit 4d1316f89cd22e5434fb2d93908e3463982166ad
+Author: AtanasovskiPetar <patanasovski25@gmail.com>
+Date:   Thu Mar 23 09:28:13 2023 +0100
+
+    Add java class
+
+commit 46562a11a93be211a556c17b7ef2d3b050580185
+Author: AtanasovskiPetar <patanasovski25@gmail.com>
+Date:   Thu Mar 23 09:22:48 2023 +0100
+
+     Initial commit
